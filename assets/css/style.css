@@ -1,0 +1,79 @@
+
+body {
+    font-family: 'Roboto', sans-serif;
+}
+.logo {
+    width: 86px;
+    height: 25px;
+}
+
+.card1 {
+    margin-top: 5rem;
+}
+
+.card {
+    margin-bottom: 2rem;
+}
+
+.medio {
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+
+.medio2 {
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    color: #707070;
+}
+
+.card-text {
+    color: #212529;
+    font-weight: 300;
+    width: 261;
+    height: 73;
+}
+
+.parrafo2 {
+    font-weight: 300;
+    height: 19px;
+    color: #707070;
+}
+
+.parrafo3 {
+    height: 15px;
+    font-weight: 300;
+    color: #707070;
+}
+
+
+.card-body {
+    font-weight: 300;
+}
+
+.precio {
+    font-weight: 500;
+    
+    height: 24px;
+}
+.texto-cupon {
+    
+    text-align: center;
+    padding-top: 10rem;
+    padding-bottom: 0px;
+}
+
+h3 {
+    font-family: 'Roboto', sans-serif;
+}
+
+h5 {
+    font-family: 'Roboto', sans-serif;
+    
+}
+
+footer {
+   color: #707070;
+}
